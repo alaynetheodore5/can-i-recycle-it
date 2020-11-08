@@ -21,7 +21,6 @@ const Home = props => {
 
     return (
         <div>
-            <h5 className="text-warning text-center">These pets are looking for a good home!</h5>
             <Link className="btn btn-warning float-right btn-lg mb-2" to="/new">add a pet to the shelter!</Link>
             <table className="table col-sm-6 offset-sm-2">
                 <thead className="thead-dark">
