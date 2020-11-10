@@ -28,12 +28,12 @@ body {
   justify-content: space-between;
   align-items: center;
 }
-.subnav-links-container {
+/* .subnav-links-container {
   flex-grow: 1;
   width: 100%;
   overflow-x: auto;
   white-space: nowrap;
-}
+} */
 
 ul {
   display: block;
@@ -44,6 +44,10 @@ ul {
   margin-inline-start: 0px;
   margin-inline-end: 0px;
   padding-inline-start: 40px;
+  flex-grow: 1;
+  width: 100%;
+  overflow-x: auto;
+  white-space: nowrap;
 }
 
 li {
@@ -52,7 +56,7 @@ li {
   text-align: center;
 }
 
-.StickySubNav .subnav-link {
+.nav-item, .nav-link {
   color: #1c8200;
   display: flex;
 }
