@@ -6,3 +6,11 @@ This is an application for users to access information all about recycleing! Fee
 
 
 ## Example Code
+
+### Technologies Used
+
+- ReactJS
+- JavaScript
+- NodeJS
+- CSS/HTML
+- Bootstrap
