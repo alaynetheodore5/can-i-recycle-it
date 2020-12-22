@@ -35,10 +35,6 @@ const Home = props => {
                 <tr key={r._id}>
                     <td>{r.name}</td>
                     <td>{r.isRecyclable}</td>
-                    <td>
-                        {/* <Link className="btn btn-outline-info ml-5" to={`/view/${p._id}`} >VIEW</Link>
-                        <Link className="btn btn-outline-warning ml-1" to={`/edit/${p._id}`} >EDIT</Link> */}
-                    </td>
                 </tr>
                     )}
                 </tbody>
