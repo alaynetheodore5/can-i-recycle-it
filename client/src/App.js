@@ -13,9 +13,6 @@ function App() {
       </div>
       <nav class="navbar navbar-expand-sm bg-light justify-content-center sticky-top border-top border-bottom ">
         <ul class="navbar-nav">
-          {/* <li class="nav-item">
-            <Link to="/">Home</Link>
-          </li>  */}
           <li class="nav-item">
             <a class="nav-link wm-link wm-cursor-pointer subnav-link inter-font-weight-bold" href="#"><Link to="/three-rules">THE THREE RULES</Link></a>
           </li>
