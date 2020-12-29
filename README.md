@@ -4,8 +4,6 @@ This is an application for users to access information all about recycleing! Fee
 
 ## Features
 
-## More Info
-
 ## Example Code
 
 ### Technologies Used
