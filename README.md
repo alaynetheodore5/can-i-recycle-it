@@ -1,8 +1,9 @@
 # Can I Recycle It?
 
-This is an application for users to access information all about recycleing! Feel free to suggest modifications to the app or even add new features!
+This is an application for users to access information all about recycling! Feel free to suggest modifications to the app or even add new features!
 
 ## Features
+// images here
 
 ## Example Code
 
